@@ -1,0 +1,7 @@
+#Multiply Numbers
+#Emlyn Langlieb
+
+#function that multiply numbers
+multiply_numbers<- function(x,y){
+return (x *y)
+}
